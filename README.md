@@ -225,7 +225,7 @@ git push -u origin feature/login-page
 
 ---
 
-## 📌 Quick Reference Cheat Sheet
+## 📌 Quick Reference Cheat Sheet.
 
 | Command | Purpose |
 |---|---|
@@ -241,5 +241,5 @@ git push -u origin feature/login-page
 | `git merge <branch>` | Combine branch histories |
 
 ---
-
+created by : Nomaan & Dinesh
 *Practical07 — Git Essentials Command Reference*
