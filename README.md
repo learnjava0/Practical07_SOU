@@ -225,7 +225,7 @@ git push -u origin feature/login-page
 
 ---
 
-## 📌 Quick Reference Cheat Sheet
+## 📌 Quick Reference Cheat Sheet.
 
 | Command | Purpose |
 |---|---|
